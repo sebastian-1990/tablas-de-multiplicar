@@ -2,9 +2,10 @@
 tablas de multiplicar en java 
 es el codigo para las tablas de multiplicar en modo JOptionpanel y al final muestra modo consola.
 
+**** a qui les dejo el codigo ****
 
-Scanner entrada = new Scanner(System.in);
 		
+		Scanner entrada = new Scanner(System.in);
 		int n;
 		
 		n=Integer.parseInt(JOptionPane.showInputDialog("introduce el numero"));
